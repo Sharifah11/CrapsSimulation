@@ -1,4 +1,4 @@
-
+//test
 public class Die
 {
 	private int lastRoll;
